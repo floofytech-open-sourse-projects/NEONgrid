@@ -1,6 +1,6 @@
 NeonGrid
 
-NeonGrid is a cyberpunk-themed, Ruby-powered terminal RPG set in an infinite procedural world of glowing grids, rogue code, and mythic mascots. You play as a Gridwalker tracing the last clean language — Ruby — through a collapsing digital city.
+NeonGrid is a cyberpunk-themed, Ruby-powered terminal RPG set in an infinite procedural world of glowing grids and code. You play as a Gridwalker tracing the last clean language — Ruby — through a collapsing digital city.
 
 Concept
 
